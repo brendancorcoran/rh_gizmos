@@ -6,7 +6,7 @@ LOG_DIR=~/logs/rh_gizmos
 PYTHONPATH=$APP_DIR/src
 VENV_DIR=~/git/rh_absa/.venv
 LOG_FILE=$LOG_DIR/gizmos_service.log
-APP_MODULE="app_act_sector_report.py"  # Dash app file
+APP_MODULE="reporting/app_act_sector_report.py"  # Dash app file
 
 # Start function
 start() {
