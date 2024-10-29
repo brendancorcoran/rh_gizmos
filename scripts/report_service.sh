@@ -4,7 +4,7 @@
 APP_DIR=~/git/rh_gizmos/
 LOG_DIR=~/logs/rh_gizmos
 PYTHONPATH=$APP_DIR/src
-VENV_DIR=~/git/rh_absa/.venv
+VENV_DIR=$APP_DIR/.venv
 LOG_FILE=$LOG_DIR/gizmos_service.log
 APP_MODULE="reporting/app_act_sector_report.py"  # Dash app file
 

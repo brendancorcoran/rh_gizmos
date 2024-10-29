@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+gunicorn==22.0.0
+numpy==1.26.4
+elasticsearch==8.14.0
+sqlalchemy==2.0.35
+pandas==2.2.2
+dash
+dash_bootstrap_components
+more_itertools
